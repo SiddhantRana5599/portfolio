@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: Spotify Wrapped
 date: 2024-12-31
 img: spotify_dashboard.jpg
 alt: image-alt

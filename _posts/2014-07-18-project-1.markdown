@@ -5,7 +5,7 @@ date: 2024-12-31
 img: spotify_dashboard.jpg
 alt: image-alt
 project-date: DEC 2024
-client: Start Bootstrap
+client: Spotify
 category: Analytics
 description: Overview: The Spotify Dashboard project aims to create a dynamic and interactive user interface for displaying my personalized Spotify data for the last 6 years(2019-2025). The dashboard pulls information from my Spotify data(JSON files) to showcase real-time user statistics such as top tracks, favorite artists, listening history, song end reason and in which part of the day I listened the most. The interface is designed to provide a user-friendly experience while offering in-depth insights into my music preferences and activity.
 
